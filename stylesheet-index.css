@@ -1,0 +1,11 @@
+body {background: lightsteelblue;
+color: black;
+font-size: 12pt;
+    font-family: 'Montserrat', sans-serif;}
+li {border: 1px solid black;
+padding: 10px;
+background: lightblue}
+a { color: darkblue;
+    text-decoration: none }
+a:hover { color: blue }
+
